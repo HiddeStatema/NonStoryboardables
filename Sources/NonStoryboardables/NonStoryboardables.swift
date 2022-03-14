@@ -1,6 +1,6 @@
 //
 // NonStoryboardables.
-// Copyright (C) 2022 Hidde Statema Development. All rights reserved.
+// Copyright (C) 2022 Hidde Statema. All rights reserved.
 //
 
 import UIKit
